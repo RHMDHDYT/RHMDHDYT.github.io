@@ -26,6 +26,7 @@ exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
+future: true
 highlighter:        rouge
 kramdown:
   auto_ids:         true
