@@ -18,6 +18,7 @@ profile_img:
 profile: "Halo, gue Rahmad dan gue seorang Android App Developer."
 social:
   github: 
+  linkedin: "https://www.linkedin.com/in/rahmad-hidayat-56648077"
 
 # Build settings
 include: ["_categories"]
