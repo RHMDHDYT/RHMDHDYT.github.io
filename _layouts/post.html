@@ -48,6 +48,7 @@ layout: default
 
 </article>
 
+{% if page.comments %}
 <div id="disqus_thread" class="section-padding post"></div>
 <script>
     /**
@@ -70,7 +71,6 @@ layout: default
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
 
 {% if page.previous.url %}
   <section class="next">
