@@ -3,7 +3,7 @@ layout: post
 title: "Craft Beerati"
 date: 2016-09-08
 categories:
-  - Juice
+  - Mango
 description: 
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
