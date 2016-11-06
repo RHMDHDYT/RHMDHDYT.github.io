@@ -15,6 +15,7 @@ layout: default
       {% if page.categories.size > 0 %}
         <span>
           Posted in {{ page.categories | join: ', ' }}
+          {{ content | reading_time_as_i }}
         </span>
       {% endif %}
       <span></span>
