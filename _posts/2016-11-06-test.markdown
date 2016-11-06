@@ -8,3 +8,6 @@ categories:
 
 
 ini rahmad.
+
+
+{% include category.html %}
