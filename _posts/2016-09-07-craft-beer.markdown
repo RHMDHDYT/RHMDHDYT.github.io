@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Craft Beer Garden"
+title: "Craft Burgundi"
 date: 2016-09-07
 categories:
   - Juice
