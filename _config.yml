@@ -27,6 +27,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 future: true
+published: true
 highlighter:        rouge
 kramdown:
   auto_ids:         true
