@@ -32,3 +32,10 @@ sass:
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+
+# Discuss
+---
+layout: default
+comments: true
+# other options
+---
