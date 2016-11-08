@@ -3,22 +3,22 @@ email: inbox.rahmad@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-78477098-1
 
 # SEO settings
-title: Rahmad Blog
-description: "Halo, gue Rahmad dan gue seorang Android App Developer."
+title: Rahmad Personal Stories
+description: "Hi, i'm Rahmad. I'm Android App Developer. I love Vector Arts and Mixing Digital Music. Enjoy my stories."
 url: "https://rhmdhdyt.github.io"
-twitter_username: 
-default_img: 
+twitter_username: RHMDHDYT__
+default_img: "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/10537794_821973891147670_2395266050064760416_n.jpg?_nc_eui2=v1%3AAeHHIAEJmZEJnpO5b6bYgh2cyn530snShHXY47xbUiOP52ZaIjj9MfpkMC26xoGlD9fHsknxv0V6_RE5p_ITx1fRNoLlsnmNE8O1ttgvETYxcg&oh=48cd3ebfb84949beabc3ae37fa8bfdb9&oe=589823DF"
 
 # Profile settings
 name: Rahmad Hidayat
 profile_img: "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/10537794_821973891147670_2395266050064760416_n.jpg?_nc_eui2=v1%3AAeHHIAEJmZEJnpO5b6bYgh2cyn530snShHXY47xbUiOP52ZaIjj9MfpkMC26xoGlD9fHsknxv0V6_RE5p_ITx1fRNoLlsnmNE8O1ttgvETYxcg&oh=48cd3ebfb84949beabc3ae37fa8bfdb9&oe=589823DF"
-profile: "Halo, gue Rahmad dan gue seorang Android App Developer."
+profile: "Hello, i'm Rahmad. I'm Android App Developer. I love Vector Arts and Arranging Digital Music. Enjoy my stories."
 social:
   linkedin: "https://www.linkedin.com/in/rahmad-hidayat-56648077"
-  github: "https://rhmdhdyt.github.io"
+  github: "https://github.com/RHMDHDYT"
 
 # Build settings
 include: ["_categories"]
