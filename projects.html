@@ -9,7 +9,7 @@ permalink: /projects/
         <i class="fa fa-lg fa-arrow-left">
         </i>
         <span>
-            Back to Posts
+            Back to Home
         </span>
     </a>
     <header class="archives__header">
@@ -34,12 +34,6 @@ permalink: /projects/
                     <h2 class="card__header" itemprop="name">
                         {{ post.title }}
                     </h2>
-                    <p class="card__count" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-                        {{ post.date | date: "%b %-d, %Y" }}
-              {% if post.categories.size > 0 %}
-                in {{ post.categories | join: ', ' }}
-              {% endif %}
-                    </p>
                     <span class="card__more">
                         See Project
                     </span>
