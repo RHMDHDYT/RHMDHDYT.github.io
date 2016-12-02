@@ -34,7 +34,7 @@ permalink: /projects/
                     <h2 class="card__header" itemprop="name">
                         {{ post.title }}
                     </h2>
-                    <br />
+                                  <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
                     <span class="card__more">
                         See Project
                     </span>
