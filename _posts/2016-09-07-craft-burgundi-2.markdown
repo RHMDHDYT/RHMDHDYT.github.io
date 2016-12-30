@@ -6,7 +6,7 @@ hidden: true
 categories:
   - Projects
 description: 
-image: https://github.com/RHMDHDYT/RHMDHDYT.github.io/blob/master/assets/images/watsons_2000_1200.png
+image: https://raw.githubusercontent.com/RHMDHDYT/RHMDHDYT.github.io/master/assets/images/watsons_2000_1200.png
 image-sm: https://unsplash.it/500/300?image=1047
 ---
 Lorem Ipsum.
