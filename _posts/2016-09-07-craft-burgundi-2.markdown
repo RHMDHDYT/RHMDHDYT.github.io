@@ -2,6 +2,7 @@
 layout: postnocomment
 title: "Craft Burgundi 2"
 date: 2016-09-07
+hidden: true
 categories:
   - Projects
 description: 
