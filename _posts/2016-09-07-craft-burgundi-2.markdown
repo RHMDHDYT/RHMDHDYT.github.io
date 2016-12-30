@@ -6,7 +6,7 @@ hidden: true
 categories:
   - Projects
 description: 
-image: http://i.imgur.com/YCHecdkh.png
+image: http://i.imgur.com/YCHecdk.png
 image-sm: http://i.imgur.com/YCHecdkl.png
 ---
 Lorem Ipsum.
