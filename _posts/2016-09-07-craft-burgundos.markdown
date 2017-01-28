@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Craft Burgundos
-date: {}
+date: 2016-09-07
 categories:
   - Marko
-description: null
+description: Something about Lorem Ipsum
 image: 'https://unsplash.it/2000/1200?image=1047'
 image-sm: 'https://unsplash.it/500/300?image=1047'
 published: true
