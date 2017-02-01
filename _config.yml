@@ -19,8 +19,7 @@ profile: "Hello guys, My name is Rahmad. I'm a Mobile App Developer. I love  I h
 social:
   linkedin: "https://www.linkedin.com/in/rahmad-hidayat-56648077"
   github: "https://github.com/RHMDHDYT"
-  path: "https://path.com/profile/fNkgQ"
-  twitter: "https://twitter.com/RHMDHDYT__"
+  twitter-square: "https://twitter.com/RHMDHDYT__"
 
 # Build settings
 include: ["_categories"]
