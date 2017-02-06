@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2017-02-06
 categories:
   - UI UX
 description: Something about Lorem Ipsum
