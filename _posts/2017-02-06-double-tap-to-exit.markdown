@@ -12,7 +12,7 @@ image-sm: 'https://unsplash.it/500/300?image=133'
 Hi, ini postingan pertama gue dan gue mau sharing seputar _mobile UX_. Umumnya untuk menutup sebuah aplikasi digunakan _back button_ pada perangkat _gadget_, dan untuk menghindari ketidaksengajaan tombol _back_ tertekan maka biasanya ditambahkan sebuah _confirmation layout_ berbentuk _pop up_. Jika menggunakan _pop up dialog_, dari sisi _ux user_ diharuskan memindahkan jarinya dari _back button_ ke tengah layar dan ini tidak _thumb-friendly_. Nah, ada cara yang lebih efektif dan _thumb-friendly_ untuk membuat konfirmasi keluar aplikasi. Yaitu, _double tap back button_!
 
 
-**Berikut ini contoh aplikasi yang menggunakan _UX_ berbeda untuk keluar dari aplikasi.**
+**Berikut ini contoh aplikasi yang menggunakan konsep _UX_ berbeda untuk keluar dari aplikasi.**
 
 Zalora          |Bukalapak
 :--------------------------:|:--------------------------:
