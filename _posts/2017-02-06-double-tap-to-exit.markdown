@@ -20,3 +20,5 @@ Zalora          |Bukalapak
 :--------------------------:|:--------------------------:
 
 Dengan menggunakan konsep double tap, user hanya perlu menggunakan jari di tempat yang sama. Lebih  _thumb-friendly_ bukan?. Nah sekarang kita coba implementasi di platform Android.
+
+Sebuah activity pada android mempunyai default method untuk action onBackPressed.
