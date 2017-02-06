@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Double tap back button to quit the app.
 date: 2017-02-06
 categories:
   - UI UX
