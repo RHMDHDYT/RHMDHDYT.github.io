@@ -17,7 +17,7 @@ Hi, ini postingan pertama gue dan gue mau sharing seputar _mobile UX_. Umumnya u
 
 Zalora          |Bukalapak
 :--------------------------:|:--------------------------:
-![zalora](http://i.imgur.com/JCBct6il.jpg)  |   ![bukalapak](http://i.imgur.com/7Fa4iQcl.jpg)
+![zalora](https://i.imgur.com/JCBct6il.jpg)  |   ![bukalapak](https://i.imgur.com/7Fa4iQcl.jpg)
 :--------------------------:|:--------------------------:
 
 
