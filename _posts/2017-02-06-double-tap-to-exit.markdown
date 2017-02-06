@@ -11,7 +11,12 @@ image-sm: 'https://unsplash.it/500/300?image=133'
 ---
 ## UX Tips: Double tap back button to quit the app.
 
-Hi, ini postingan pertama gue dan gue mau sharing seputar mobile ux. Umumnya untuk menutup sebuah aplikasi digunakan back button pada perangkat gadget, dan untuk menghindari ketidaksengajaan tombol ini tertekan maka ditambahkan sebuah confirmation layout berbentuk pop up. Dari sisi ux, user diharuskan memindahkan jari nya dari back button ke tengah layar. Nah, ada cara yang lebih efektif dan thumb-friendly untuk membuat konfirmasi keluar aplikasi. Yaitu, double tap back button to quit the app. 
+Hi, ini postingan pertama gue dan gue mau sharing seputar _mobile ux_. Umumnya untuk menutup sebuah aplikasi digunakan _back button_ pada perangkat _gadget_, dan untuk menghindari ketidaksengajaan tombol ini tertekan maka biasanya ditambahkan sebuah _confirmation layout_ berbentuk _pop up_. Jika menggunakan _pop up dialog_, dari sisi _ux user_ diharuskan memindahkan jari nya dari _back button_ ke tengah layar dan ini tidak _thumb-friendly_. Nah, ada cara yang lebih efektif dan _thumb-friendly_ untuk membuat konfirmasi keluar aplikasi. Yaitu, _double tap back button to quit the app_!
 
-![zalora]({{site.baseurl}}/http://i.imgur.com/JCBct6il.jpg)
-![bukalapak]({{site.baseurl}}/http://i.imgur.com/7Fa4iQcl.jpg)
+
+**Berikut ini contoh aplikasi yang menggunakan _treatment_ berbeda untuk keluar dari aplikasi.**
+
+Zalora            |  Bukalapak
+:-------------------------:|:-------------------------:
+![zalora](http://i.imgur.com/JCBct6il.jpg)  |   ![bukalapak](http://i.imgur.com/7Fa4iQcl.jpg)
+:-------------------------:|:-------------------------:
