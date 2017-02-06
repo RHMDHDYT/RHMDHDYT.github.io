@@ -18,7 +18,7 @@ Hi, ini postingan pertama gue dan gue mau sharing seputar _mobile UX_. Umumnya u
 Zalora          |Bukalapak
 :--------------------------:|:--------------------------:
 ![zalora](https://i.imgur.com/JCBct6il.jpg)  |   ![bukalapak](https://i.imgur.com/7Fa4iQcl.jpg)
-:--------------------------:|:--------------------------:
+
 
 
 Dengan menggunakan konsep double tap, user hanya perlu menggunakan jari di tempat yang sama. Lebih  _thumb-friendly_ bukan?. Nah sekarang kita coba implementasi di platform Android.
