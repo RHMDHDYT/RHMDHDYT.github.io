@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'UX Tips: Double tap back button untuk keluar aplikasi.'
-date: 2017-02-06T00:00:00.000Z
+date: {}
 categories:
   - UI UX
 description: Something about Lorem Ipsum
