@@ -28,7 +28,7 @@ Sebuah activity pada android mempunyai default method untuk action onBackPressed
 	private static final int TIME_DELAY = 2000;
     private static long back_pressed;
     
-    
+{% highlight java %}
     @Override
     public void onBackPressed() {
         if (back_pressed + TIME_DELAY > System.currentTimeMillis()) {
@@ -39,3 +39,4 @@ Sebuah activity pada android mempunyai default method untuk action onBackPressed
         }
         back_pressed = System.currentTimeMillis();
     }
+{% endhighlight %}
