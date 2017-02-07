@@ -26,8 +26,9 @@ Dengan menggunakan konsep double tap, user hanya perlu menggunakan jari di tempa
 Sebuah activity pada android mempunyai default method untuk action onBackPressed. kita dapat menambahkan fungsi dengan memanggil method onBackPressed dari sebuah class yang meng-extend activity. Setelah itu tambahkan variable TIME_DELAY dan back_pressed dalam activity class.
 
     private static final int TIME_DELAY = 2000;
-    private static long back_pressed;
+private static long back_pressed;
 
+{% highlight java %}
 @Override
 public void onBackPressed() {
     if (back_pressed + TIME_DELAY > System.currentTimeMillis()) {
@@ -38,3 +39,4 @@ public void onBackPressed() {
     }
     back_pressed = System.currentTimeMillis();
     }
+{% endhighlight %}
