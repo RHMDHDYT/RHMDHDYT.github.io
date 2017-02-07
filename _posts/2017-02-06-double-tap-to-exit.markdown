@@ -25,10 +25,10 @@ Dengan menggunakan konsep double tap, user hanya perlu menggunakan jari di tempa
 
 Sebuah activity pada android mempunyai default method untuk action onBackPressed. kita dapat menambahkan fungsi dengan memanggil method onBackPressed dari sebuah class yang meng-extend activity. Setelah itu tambahkan variable TIME_DELAY dan back_pressed dalam activity class.
 
-{% highlight ruby %}
+```ruby
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+```
