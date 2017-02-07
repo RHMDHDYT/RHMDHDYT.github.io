@@ -31,7 +31,7 @@ Sebuah activity pada android mempunyai default method untuk action onBackPressed
 {% endhighlight %}
 
 
-```
+```java
 private static final int TIME_DELAY = 2000;
 private static long back_pressed;
 ```
