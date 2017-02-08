@@ -23,7 +23,7 @@ def show
   end
 end
 {% endhighlight %}
-
+<br />
 
 {% highlight java linenos %}
 private void updateQuantityPerVariant(int quantity) {
@@ -45,6 +45,7 @@ private void updateQuantityPerVariant(int quantity) {
     }
   }
 {% endhighlight %}
+<br />
 
 Sartorial kale chips keytar freegan craft beer, tilde put a bird on it post-ironic knausgaard everyday carry aesthetic. Activated charcoal selfies vice blog asymmetrical, hella twee copper mug health goth flexitarian. Tattooed pickled cold-pressed, PBR&B hell of schlitz seitan. Retro williamsburg schlitz health goth messenger bag roof party. Migas fanny pack chillwave chambray. Post-ironic roof party wolf ethical. Tacos PBR&B beard, lumbersexual retro DIY tumeric selvage brunch.
 
