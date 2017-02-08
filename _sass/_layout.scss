@@ -5,6 +5,9 @@ body {
   background-color: $color-grey;
 }
 
+.highlight pre {
+  overflow: auto;
+}
 /**
  * Sections
  */
