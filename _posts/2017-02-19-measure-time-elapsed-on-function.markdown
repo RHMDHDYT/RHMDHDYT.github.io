@@ -33,7 +33,10 @@ private void doSomething() {
 {% endhighlight %}
 
 Di awal sebuah function / method kita ambil waktu dimulai dalam nanotime, kemudian di akhir proses kita ambil lagi waktu tersebut lalu tinggal dikurang dengan waktu dimulai tadi, simple kan?.
-Setelah di tes, method ini akan mengeluarkan log berisi waktu yang digunakan untuk menyelesaikan satu proses diatas seperti ini:
+Setelah di tes, method ini akan mengeluarkan log berisi waktu (dalam miliseconds) yang digunakan untuk menyelesaikan satu proses diatas seperti ini:
 >02-19 18:06:21.477 6690-6690/com.rahmad.measuretime D/elapsed time:: 3003ms
 
-Kenapa harus nanotime?. Didalam class System, kita bisa menggunakan currentTimeMillis() dan nanoTime() untuk mengambil current time, dua duanya bisa dipakai, tapi sebenernya dua fungsi ini punya tujuan yang berbeda. 
+Kenapa harus nanoTime()?. Didalam class System, kita bisa menggunakan currentTimeMillis() dan nanoTime() untuk mengambil current time, dua-duanya bisa dipakai, tapi sebenernya dua fungsi ini punya tujuan yang berbeda.
+currentTimeMillis() mengambil current time dari date operating system yang berjalan, kenapa method ini tidak disarankan? karena keakuratan jam pada os bisa bergeser dan harus diatur terus-menerus sehingga bisa mengurangi keakuratan perhitungan antara start time dan end time. lebih lanjut dari method currentTimeMillis() bisa dilihat [disini.](https://developer.android.com/reference/java/lang/System.html#currentTimeMillis())
+
+Sedangkan method nanoTime() memang tujuan fungsinya adalah untuk mengukur sebuah waktu (elapsed time) dan tidak ada hubungannya dengan datetime OS sehingga lebih akurat. lebih lanjut dari method nanoTime() bisa dilihat [disini.](https://developer.android.com/reference/java/lang/System.html#nanoTime())
