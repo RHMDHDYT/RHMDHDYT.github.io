@@ -4,9 +4,9 @@ layout: post
 date: 2017-02-19
 categories:
   - Android
-description: Something about Lorem Ipsum
-image: 'https://unsplash.it/2000/1200?image=1047'
-image-sm: 'https://unsplash.it/500/300?image=1047'
+description: Android: Measure time elapsed on function.
+image: 'https://i.imgur.com/pyZbYcYl.jpg'
+image-sm: 'http://i.imgur.com/pyZbYcYt.jpg'
 published: false
 ---
 
