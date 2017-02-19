@@ -33,7 +33,7 @@ private void doSomething() {
 {% endhighlight %}
 
 Di awal sebuah function / method kita ambil waktu dimulai dalam nanotime, kemudian di akhir proses kita ambil lagi waktu tersebut lalu tinggal dikurang dengan waktu dimulai tadi, simple kan?.
-Setelah di tes, method ini mengeluarkan log berisi:
+Setelah di tes, method ini akan mengeluarkan log berisi waktu yang digunakan untuk menyelesaikan satu proses diatas seperti ini:
 >02-19 18:06:21.477 6690-6690/com.rahmad.measuretime D/elapsed time:: 3003ms
 
 Kenapa harus nanotime?. Didalam class System, kita bisa menggunakan currentTimeMillis() dan nanoTime() untuk mengambil current time, dua duanya bisa dipakai, tapi sebenernya dua fungsi ini punya tujuan yang berbeda. 
