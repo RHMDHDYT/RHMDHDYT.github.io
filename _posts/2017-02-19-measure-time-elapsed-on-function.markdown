@@ -12,7 +12,8 @@ image-sm: 'https://i.imgur.com/pyZbYcYl.jpg'
 
 Halo teman-teman, ini post pertama gue dan gue mau sharing tentang pengukuran waktu yang dibutuhkan dalam meng-eksekusi sebuah function / method dalam environtment Android.
 
-Jadi gini, kadang kita mau mengukur berapa waktu yang dihabiskan pada peng-eksekusian suatu proses / fungsi dalam koding. Gunanya untuk apa? gunanya untuk mengoptimalkan proses didalamnya agar tidak memakan banyak waktu. Sederhananya, untuk mengukur waktu di dalam sebuah proses bisa menggunakan class System dengan fungsi nanoTime() pada java. Contoh simplenya seperti ini, kita simulasikan sebuah method melakukan sleep thread selama 3000ms: 
+Jadi gini, kadang kita mau mengukur berapa waktu yang dihabiskan pada peng-eksekusian suatu proses / fungsi dalam koding. Gunanya untuk apa? gunanya untuk mengoptimalkan proses didalamnya agar tidak memakan banyak waktu. Sederhananya, untuk mengukur waktu di dalam sebuah proses bisa menggunakan class System dengan fungsi nanoTime() pada java.
+Contoh simplenya seperti ini, kita simulasikan sebuah method melakukan sleep thread selama 3000ms: 
 
 {% highlight java linenos %}
 private void doSomething() {
@@ -33,6 +34,7 @@ private void doSomething() {
 {% endhighlight %}
 <br/>
 Di awal sebuah function / method, kita ambil waktu dimulai (current time) dalam nanotime kedalam sebuah variabel (tStart), kemudian di akhir proses kita ambil lagi (current time) kedalam variabel (tEnd), lalu variabel akhir tinggal dikurangi dengan variabel awal, simple kan?.
+
 Setelah di tes, method ini akan mengeluarkan log berisi waktu (dalam miliseconds) yang digunakan untuk menyelesaikan satu proses diatas seperti ini:
 >02-19 18:06:21.477 6690-6690/com.rahmad.measuretime D/elapsed time:: 3003ms
 
