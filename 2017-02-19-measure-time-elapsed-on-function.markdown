@@ -1,4 +1,12 @@
 ---
+layout: post
+title: Android: Measure time elapsed on function.
+date: 2017-02-19
+categories:
+  - Marko
+description: Android: Measure time elapsed on function.
+image: 'https://unsplash.it/2000/1200?image=1047'
+image-sm: 'https://unsplash.it/500/300?image=1047'
 published: false
 ---
 ## Measure time elapsed on function
