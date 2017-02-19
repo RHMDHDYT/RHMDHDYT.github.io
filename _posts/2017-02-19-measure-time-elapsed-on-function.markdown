@@ -10,7 +10,7 @@ image-sm: 'https://unsplash.it/500/300?image=1047'
 published: false
 ---
 ## Android: Measure time elapsed on function.
-
+<br/>
 Halo teman-teman, ini post pertama gue dan gue mau sharing tentang pengukuran waktu yang dibutuhkan dalam meng-eksekusi sebuah function / method dalam environtment Android.
 
 Jadi gini, kadang kita mau mengukur berapa waktu yang dihabiskan pada peng-eksekusian suatu proses / fungsi dalam koding. Gunanya untuk apa? gunanya untuk mengoptimalkan proses didalamnya agar tidak memakan banyak waktu. Sederhananya, untuk mengukur waktu di dalam sebuah proses bisa menggunakan class System dengan fungsi nanoTime() pada java. Contoh simplenya seperti ini, kita simulasikan sebuah method melakukan sleep thread selama 3000ms: 
