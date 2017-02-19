@@ -1,13 +1,13 @@
 ---
-title: Android: Measure time elapsed on function.
+published: false
+title: 'Android: Measure time elapsed on function.'
 layout: post
 date: 2017-02-19
 categories:
   - Android
-description: Android: Measure time elapsed on function.
+description: 'Android: Measure time elapsed on function.'
 image: 'https://i.imgur.com/pyZbYcYl.jpg'
 image-sm: 'https://i.imgur.com/pyZbYcYt.jpg'
-published: true
 ---
 
 Halo teman-teman, ini post pertama gue dan gue mau sharing tentang pengukuran waktu yang dibutuhkan dalam meng-eksekusi sebuah function / method dalam environtment Android.
