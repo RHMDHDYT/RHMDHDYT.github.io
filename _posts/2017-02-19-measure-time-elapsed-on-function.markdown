@@ -6,7 +6,7 @@ categories:
   - Android
 description: Android: Measure time elapsed on function.
 image: 'https://i.imgur.com/pyZbYcYl.jpg'
-image-sm: 'http://i.imgur.com/pyZbYcYt.jpg'
+image-sm: 'https://i.imgur.com/pyZbYcYt.jpg'
 published: false
 ---
 
