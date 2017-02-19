@@ -1,7 +1,7 @@
 ---
 title: Android: Measure time elapsed on function.
 layout: post
-date: 2016-09-07T00:00:00.000Z
+date: 2017-02-19
 categories:
   - Android
 description: Something about Lorem Ipsum
