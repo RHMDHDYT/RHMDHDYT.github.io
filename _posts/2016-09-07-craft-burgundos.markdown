@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Craft Burgundos
-date: {}
+date: 2016-09-07
 categories:
   - Marko
 description: Something about Lorem Ipsum
