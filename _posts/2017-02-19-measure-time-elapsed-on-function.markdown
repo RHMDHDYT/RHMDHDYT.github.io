@@ -1,9 +1,10 @@
 ---
 published: false
+title: Android: Measure time elapsed on function.
 layout: post
 date: 2016-09-07T00:00:00.000Z
 categories:
-  - Marko
+  - Android
 description: Something about Lorem Ipsum
 image: 'https://unsplash.it/2000/1200?image=1047'
 image-sm: 'https://unsplash.it/500/300?image=1047'
