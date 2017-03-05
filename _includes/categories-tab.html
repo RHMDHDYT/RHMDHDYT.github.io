@@ -2,6 +2,9 @@
   <ul class="cards">
     {% for category in site.categories %}
       {% assign cat_name = category | first %}
+                  {% if cat_name == "Projects" %}
+        <!-- we do nothing -->
+        {% else if %}
       <li class="card">
         <a class="card__link" href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">
           {% for post in site.categories[cat_name] limit: 1 %}
@@ -20,6 +23,7 @@
           </div>
         </a>
       </li>
+              {% endif %} 
     {% endfor %}
   </ul>
 
