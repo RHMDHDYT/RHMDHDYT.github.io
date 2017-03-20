@@ -10,7 +10,7 @@ image: 'https://i.imgur.com/pyZbYcYh.jpg'
 image-sm: 'https://i.imgur.com/pyZbYcYl.jpg'
 ---
 
-Halo teman-teman, ini post pertama gue dan gue mau sharing tentang cara mengukur waktu yang dibutuhkan ketika sebuah *function / method* di eksekusi.
+Hai, ini post pertama gue dan gue mau sharing tentang cara mengukur waktu yang dibutuhkan ketika sebuah *function / method* di eksekusi.
 
 Kadang kita perlu mengukur berapa waktu yang dihabiskan ketika mengeksekusi sebuah *function* untuk mem-*benchmark* seberapa lama prosesnya. Sederhananya, untuk mengukur waktu bisa dengan cara mengambil waktu saat proses dimulai dan berakhir menggunakan *class System* dengan fungsi nanoTime() pada java.
 
